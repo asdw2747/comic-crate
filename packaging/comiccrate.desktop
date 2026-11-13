@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=ComicCrate
+GenericName=Comic Converter
+Comment=Convert PDF/CBR comics to CBZ and read comic archives
+Exec=comic-crate
+Icon=comiccrate
+Terminal=false
+Categories=Graphics;Utility;
+Keywords=comic;cbz;cbr;pdf;converter;reader;
+MimeType=application/pdf;application/vnd.comicbook+zip;application/vnd.comicbook-rar;application/x-cbz;application/x-cbr;application/zip;
+StartupWMClass=ComicCrate

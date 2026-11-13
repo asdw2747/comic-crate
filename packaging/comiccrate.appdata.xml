@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.comiccrate.ComicCrate</id>
+  <name>ComicCrate</name>
+  <summary>Convert PDF/CBR comics to CBZ and read comic archives</summary>
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  <description>
+    <p>
+      ComicCrate converts PDF and CBR comics into CBZ archives and includes an
+      integrated comic reader for CBZ, CBR, and PDF files.
+    </p>
+  </description>
+  <launchable type="desktop-id">comiccrate.desktop</launchable>
+  <categories>
+    <category>Graphics</category>
+    <category>Utility</category>
+  </categories>
+</component>
